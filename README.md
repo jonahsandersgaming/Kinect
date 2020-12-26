@@ -5,7 +5,7 @@ apt-get install python3
 
 apt-get install git
 
-git Clone Kinect using git clone https://github.com/AstroBolo/Kinect.git
+git clone Kinect using git clone https://github.com/AstroBolo/Kinect.git
 
 pip install requests
 
