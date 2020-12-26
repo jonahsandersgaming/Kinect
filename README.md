@@ -15,4 +15,7 @@ cd Kinect
 
 python3 gmail-hack.py
 
+Type in the email
+
+for the password file type passwfile.txt
 
